@@ -247,14 +247,6 @@ By studying this project, you'll understand:
 - Delete log files when no longer needed
 - Consider encrypting output files for added security
 
-## 📝 License
-
-MIT License - For educational use only.
-
-## 👨‍💻 Author
-
-Created for educational cybersecurity demonstrations.
-
 ## 🤝 Contributing
 
 This is an educational project. If you're using it for learning:
