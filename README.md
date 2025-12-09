@@ -1,6 +1,6 @@
 # Keylogger
 
-
+![Program Running](img.jpg)
 
 A Python-based educational cybersecurity project demonstrating input monitoring capabilities with explicit user consent. This tool captures keyboard and mouse activity for productivity analysis and security research purposes.
 
